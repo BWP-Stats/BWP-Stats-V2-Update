@@ -40,6 +40,19 @@
 - This will be used for user commands ([Example](https://i.imgur.com/wmAa4oF.gif))
 - This will be used for daily, weekly & monthly historic commands ([Information](#historic-cmds))
 
+<h3 id="historical-cmds">Historical Commands</h3>
+
+- Added historical commands
+  - `/daily` - Shows the stats you gained in a 24 hours period ([Example](https://imgur.com/a/zB1Qqaw))
+  - `/weekly` - Shows the stats you gained in a 7 day period ([Example](https://imgur.com/a/zB1Qqaw))
+  - `/monthly` - Shows the stats you gained in a 30 day period ([Example](https://imgur.com/a/zB1Qqaw))
+
+- Added historical settings commands
+  - These commands allow you to reset your historical reset time & enable & disable historical tracking
+  - `/historical tracking enable` - Enable your historical tracking (Requires you to be registered)
+  - `/historical tracking disable` - Disable your historical tracking (Requires you to be registered)
+  - `/historical tracking reset` - Reset the historical tracking reset time to now (Requires you to be registered)
+
 <h3 id="estimate-changes">Estimate Changes:</h3>
 
 - An image is now used to show estimated statistics of a user ([Example](https://imgur.com/a/yp2hIXb))
@@ -68,15 +81,6 @@
 <h2 id="planned">Planned For V2 Release</h2>
 
 <h2 id="major-planned-updates">Major Planned Updates</h2>
-
-<h3 id="historic-cmds">Historic Commands</h3>
-
-- Daily:
-  - Will show the stats you gained in a 24 hour window
-- Weekly:
-  - Will show the stats you gained in a 7 day window
-- Monthly:
-  - Will show the stats you gained in a 30 day window
 
 <h3 id="leaderboard-updates">Leaderboard Updates</h3>
 
