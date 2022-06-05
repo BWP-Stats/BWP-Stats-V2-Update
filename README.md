@@ -9,12 +9,8 @@
     - [Estimate Changes](#estimate-changes)
     - [Help Changes](#help-changes)
   - [Minor Updates](#minor-updates)
-- [Planned For Release](#planned)
-  - [Major Planned Updates](#major-planned-updates)
-    - [Historic Commands](#historic-cmds)
-    - [Leaderboard Updates](#leaderboard-updates)
 
-<h2 id="update-information">Update Information (Already Done)</h2>
+<h2 id="update-information">Update Information</h2>
 
 <h2 id="major-updates">Major(ish) Updates</h2>
 
