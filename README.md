@@ -30,6 +30,7 @@
 <h3 id="guild-changes">Guild Changes:</h3>
 
 - An image is now used to show guild stats ([Example](https://imgur.com/a/hYnxuYJ))
+- An image is now used to show the guild member list ([Example]())
 - The member list and general statistics are now seperate
 - Improved the speed of getting stats on the `info` option
 
@@ -53,6 +54,13 @@
   - `/historical tracking disable` - Disable your historical tracking (Requires you to be registered)
   - `/historical tracking reset` - Reset the historical tracking reset time to now (Requires you to be registered)
 
+<h3 id="leaderboard=changes">Leaderboard Changes</h3>
+
+- Leaderboard is now an image ([Example](https://imgur.com/a/4MRZeQt))
+- The inputted IGN is now highlighted so it is easier to see ([Example](https://imgur.com/a/4MRZeQt))
+- Added arrows to change pages
+- There is now 10 pages instead of 5
+
 <h3 id="estimate-changes">Estimate Changes:</h3>
 
 - An image is now used to show estimated statistics of a user ([Example](https://imgur.com/a/yp2hIXb))
@@ -75,15 +83,8 @@
 - Updated some small things in `/botinfo` (Now shows commands run & some other stuff)
 - Updated the `/listweights` values
 - Fixed `/status` showing in servers it shouldn't
+- Fixed `/bwpinfo` showing minecraft formatting/colour codes in the description option
 - Added a [channel](https://canary.discord.com/channels/926955080010301480/965352171040276500) in our [discord server](https://discord.gg/fBnfWXSDpu) to show level leaderboard updates
 - Added a [channel](https://canary.discord.com/channels/926955080010301480/965360224003326033) in our [discord server](https://discord.gg/fBnfWXSDpu) to show weighted wins leaderboard updates
-
-<h2 id="planned">Planned For V2 Release</h2>
-
-<h2 id="major-planned-updates">Major Planned Updates</h2>
-
-<h3 id="leaderboard-updates">Leaderboard Updates</h3>
-
-- Leaderboard will be made into an image
 
 
