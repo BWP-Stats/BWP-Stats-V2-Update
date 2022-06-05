@@ -6,7 +6,11 @@
   - [Major Updates](#major-updates)
     - [Profile Changes](#profile-changes)
     - [Guild Changes](#guild-changes)
+    - [Register Command](#register-cmd)
+    - [Historical Commands](#historical-cmds)
+    - [Leaderboard Changes](#leaderboard-changes)
     - [Estimate Changes](#estimate-changes)
+    - [Guild Leaderboard Changes](#guildleaderboard-changes)
     - [Help Changes](#help-changes)
   - [Minor Updates](#minor-updates)
 
@@ -50,7 +54,7 @@
   - `/historical tracking disable` - Disable your historical tracking (Requires you to be registered)
   - `/historical tracking reset` - Reset the historical tracking reset time to now (Requires you to be registered)
 
-<h3 id="leaderboard=changes">Leaderboard Changes</h3>
+<h3 id="leaderboard-changes">Leaderboard Changes</h3>
 
 - Leaderboard is now an image ([Example](https://imgur.com/a/4MRZeQt))
 - The inputted IGN is now highlighted so it is easier to see ([Example](https://imgur.com/a/4MRZeQt))
